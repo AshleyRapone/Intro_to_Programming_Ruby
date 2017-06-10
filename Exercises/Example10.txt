@@ -1,0 +1,7 @@
+Can hash values be arrays? can you have an array of hashes? (give examples)
+
+Yes.
+
+array = [{'one': 1, 'two': 2, 'three': 3},{'four': 4, 'five': 5, 'six': 6}]
+
+hash = {numbers: [1,2,3]}

@@ -1,0 +1,9 @@
+Why does the following code give us an error when we run it?
+
+def execute(block)
+  block.call
+end
+
+execute { puts "Hello from inside the execute method!" }
+
+Because when passing a block as a parameter you need to add & before block

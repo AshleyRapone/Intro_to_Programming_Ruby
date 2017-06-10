@@ -1,0 +1,8 @@
+#What's the difference between the two hashes that were created?
+
+x = "hi there"
+my_hash = {x: "some value"}
+my_hash2 = {x => "some value"}
+
+my_hash the x is used as a symbol for the key
+my_hash2 the x is a string that is used for the key

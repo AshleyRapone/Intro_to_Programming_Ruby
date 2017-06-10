@@ -1,0 +1,1 @@
+There is a syntax error that occurred on line 2; They forgot to close a curly brace }

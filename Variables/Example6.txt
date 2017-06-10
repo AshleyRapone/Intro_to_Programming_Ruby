@@ -1,0 +1,2 @@
+There is a NameError on line 3.
+Shoes is not defined as a variable in the program or it is outside of the scope in which it is being called.

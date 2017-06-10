@@ -1,0 +1,2 @@
+It means that you did not pass through enough arguments for a particular method.
+You only have 1 argument when you need 2. 

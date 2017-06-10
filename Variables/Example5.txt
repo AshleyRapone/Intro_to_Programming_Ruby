@@ -1,0 +1,4 @@
+The first one returns 3.
+
+The second one returns an error 'undefined local variable' because x was created within
+the do/end block therefore it cannot be referenced outside of the block because it is not within the scope. 

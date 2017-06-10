@@ -1,0 +1,4 @@
+Look at several Rails/Ruby online API sources and say which one you like best and why.
+
+I like ruby-doc.org because it has several sections that pinpoint what you want to know.
+I clicked on Core API and was easily able to look at all of the Ruby methods if I forgot what each one did. 

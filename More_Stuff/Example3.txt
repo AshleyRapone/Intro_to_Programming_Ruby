@@ -1,0 +1,5 @@
+#What is exception handling and what problem does it solve?
+
+Is a specific process that deals with errors in a manageable way.
+When a code is carried out and there is an error the program will stop running.
+If we have a rescue word in our code then it tells the program what to do when a certain error comes up. 
